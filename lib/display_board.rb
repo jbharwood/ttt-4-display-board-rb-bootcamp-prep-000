@@ -2,5 +2,5 @@
 # out the current state.
 def display_board_spec
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " " ]
-  puts ""
+  puts board
 end
